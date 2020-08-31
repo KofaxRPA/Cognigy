@@ -9,5 +9,5 @@ This guide helps somene with no experience of Kofax and no experience of Cognigy
   * Kofax RPA
   * Kofax Total Agility
   * Kofax Mobile Capture
-  * Kofax SignDoc
+  * Kofax SignDoc  
  *You do not need to download nor understand the Connector when using the Guide.*
